@@ -1,4 +1,4 @@
-# Building an Authentic Split-Flap Display: Step-by-Step Guide
+# Building a Split-Flap Display: Step-by-Step Guide
 
 Learn how to create a realistic split-flap display where each character is **physically divided** by the horizontal line, just like the original mechanical displays from airports and train stations.
 
@@ -393,4 +393,5 @@ Full Character "F":    Top Half Shows:    Bottom Half Shows:
 └─────────────┘                           └─────────────┘
 ```
 
-## Step 5: Feel proud of yourself! Hope you like it and use for your own web projects. 
+## Step 5: Feel proud of yourself! 
+Hope you like it and use for your own web projects. 
